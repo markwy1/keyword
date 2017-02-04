@@ -1,3 +1,3 @@
 # keyword wrangler
 
-<h1>Example from Node Craftman: keyword wrangler </h1>
+<h1>Example from "The Node Craftsman Book": keyword wrangler </h1>
